@@ -1,1 +1,1 @@
-Notary website
+Template for a Notary landing page.
